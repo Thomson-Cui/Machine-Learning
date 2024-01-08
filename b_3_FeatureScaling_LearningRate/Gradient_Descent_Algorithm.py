@@ -3,6 +3,7 @@
 
 # In[1]:
 
+import numpy as np
 
 def Prediction(x, w, b):
     
